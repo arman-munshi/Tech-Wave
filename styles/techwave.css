@@ -123,4 +123,36 @@
 }
 
 
+/* techwave section style */
+
+.techwave{
+    background-color: #230e3d;
+    padding:120px 0px;
+}
+
+.techwave-container{
+    max-width: 1200px;
+    margin:0px auto;
+}
+.techwave-item{
+    background-color: rgba(53, 17, 101, 0.4);
+    border-radius: 40px;
+    padding:40px;
+}
+
+.techwave-item img, h3, i{
+    margin-bottom:16px;
+
+}
+.techwave-item h3{
+    color:#ffffff;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.techwave-item p{
+    color:#ffffffa0;
+    font-size: 1rem;
+    line-height: 24px;
+    font-weight: 100;
+}
 
